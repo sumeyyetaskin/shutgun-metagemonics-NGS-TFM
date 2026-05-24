@@ -7,7 +7,7 @@ Repository content
 Readme:
 Information about repository and folders content.                                                                                                                               
 
-Scripts                                                                                                                                                                         
+##Scripts                                                                                                                                                                         
 
 Bioinformatics pipeline
 This folder contains all scripts used for the analysis of fastQ files from metagenomics samples (Guillain-Barré syndrome).                                                      ## Repository Structure
