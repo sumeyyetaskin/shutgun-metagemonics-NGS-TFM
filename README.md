@@ -10,7 +10,8 @@ Information about repository and folders content.
 ## Scripts                                                                                                                                                                         
 
 Bioinformatics pipeline
-This folder contains all scripts used for the analysis of fastQ files from metagenomics samples (Guillain-Barré syndrome).                                                      ## Repository Structure
+This folder contains all scripts used for the analysis of fastQ files from metagenomics samples (Guillain-Barré syndrome).                                                   
+## Repository Structure
  
 ```
 metagenomic-ngs-pipeline/
